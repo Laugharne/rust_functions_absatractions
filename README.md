@@ -1,5 +1,7 @@
 # Rust: From Simple Functions to Advanced Abstractions
 
+> **Source:** [Rust: From Simple Functions to Advanced Abstractions | by Luis Soares - Freedium](https://freedium.cfd/https://blog.devgenius.io/rust-from-simple-functions-to-advanced-abstractions-d2806389677f)
+
 While many tutorials introduce isolated features, this article takes a holistic, practical approach: we'll start with a simple example and **iteratively enhance it to explore Rust's powerful constructs**.
 
 By the end, you'll clearly understand Rust's core principles, from basic syntax to advanced abstractions like **traits**, **lifetimes**, **macros**, **closures**, and **async** **programming**.
